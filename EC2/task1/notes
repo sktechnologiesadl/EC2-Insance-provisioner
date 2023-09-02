@@ -1,0 +1,2 @@
+security_groups = sg-04aca16ea4116af97
+vpc_id          = vpc-0b76e27946ff20be4

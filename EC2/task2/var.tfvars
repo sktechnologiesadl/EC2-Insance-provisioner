@@ -1,0 +1,5 @@
+ami-name = "ami-0d951b011aa0b2c19"
+vm-type = "t2.micro"
+vm-name = "sktech-vm"
+pemfile-name = "sktech-kg" 
+secgp-name = "sg-04aca16ea4116af97"
